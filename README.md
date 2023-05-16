@@ -15,3 +15,9 @@ Feel free to use as you wish, apologies for the starter colour schemes in advanc
 - Record Skeletal Layouts for every use case I come across as a developer, so they can be easily re-used in the future.
 
 - Maintain uniform coding approaches for HTML, CSS and JS.
+
+## To try:
+
+**_ For Grid Dashboard: _**
+
+- Collapsable grids.
